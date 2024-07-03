@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/1024px-Fortran_logo.svg" height="40" alt="fortran logo"  />
+  <img src="https://www.svgrepo.com/show/373607/fortran.svg" height="40" alt="fortran logo"  />
 </div>
 
 ###
