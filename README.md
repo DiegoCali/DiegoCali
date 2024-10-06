@@ -31,3 +31,11 @@
 </div>
 
 ###
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoCali&show_icons=true&locale=en&layout=compact" alt="DiegoCali" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoCali&show_icons=true&locale=en" alt="DiegoCali" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoCali&" alt="DiegoCali" /></p>
+
+###
