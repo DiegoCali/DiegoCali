@@ -33,7 +33,7 @@
 ###
 
 <div align=center>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoCali&show_icons=true&locale=en&layout=compact" alt="DiegoCali" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoCali&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2&hide=html,css"" alt="DiegoCali" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoCali&show_icons=true&locale=en" alt="DiegoCali" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoCali&" alt="DiegoCali" /></p>
 </div>
